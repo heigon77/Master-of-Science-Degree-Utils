@@ -132,4 +132,4 @@ Dataset/
 
 ## 📄 License
 
-This repository is intended for academic research purposes as part of a Master's degree project. All rights reserved.
+This repository is intended for academic research purposes as part of a Master's degree project.
